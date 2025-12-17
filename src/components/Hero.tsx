@@ -63,7 +63,7 @@ const Hero = () => {
                 <span className="font-semibold text-foreground">500+</span>{" "}
                 students enrolled
               </p>
-            </div>
+            </div> 
           </div>
 
           {/* Right content - Hero image */}
